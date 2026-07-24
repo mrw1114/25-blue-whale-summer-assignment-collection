@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3。
 """
 SQL 盲注辅助脚本，支持布尔盲注和时间盲注。
 
